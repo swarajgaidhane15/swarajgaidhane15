@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarajgaidhane15" alt="swarajgaidhane15" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gswaraj_1508" target="blank"><img src="https://img.shields.io/twitter/follow/gswaraj_1508?logo=twitter&style=for-the-badge" alt="gswaraj_1508" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS, React Native and Neural Networking**
