@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **swarajgaidhane1508@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vu1xwbUR0RoBm0KxPuzOJAAnNilzta1cpYJnesfF6UU/edit#heading=h.ca0awj8022e2](https://cutt.ly/0vhG3Ku)
+- 📄 Know about my experiences [https://cutt.ly/0vhG3Ku](https://cutt.ly/0vhG3Ku)
 
 - ⚡ Fun fact **There are over 700 different programming languages**
 
