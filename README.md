@@ -23,20 +23,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/swarajgaidhane15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
 <a href="https://twitter.com/gswaraj_1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gswaraj_1508" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swarajgaidhane15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/swaraj-gaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="swaraj-gaidhane" height="30" width="40" /></a>
 <a href="https://kaggle.com/swarajgaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="swarajgaidhane" height="30" width="40" /></a>
-<a href="https://fb.com/swaraj.gaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="swaraj.gaidhane" height="30" width="40" /></a>
 <a href="https://instagram.com/gswaraj_1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gswaraj_1508" height="30" width="40" /></a>
 <a href="https://medium.com/@rutvikgaidhane1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rutvikgaidhane1508" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swarajgaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarajgaidhane" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swarajgaidhane11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="swarajgaidhane11" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/swarajgaidhane15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swarajgaidhane1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swarajgaidhane1508" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@swarajgaidhane1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@swarajgaidhane1508" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/swarajgaidhane1508/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="swarajgaidhane1508/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
