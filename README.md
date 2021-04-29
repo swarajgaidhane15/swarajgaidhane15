@@ -9,17 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 🤝 I’m looking for help with **ML/AI**
-
-- 👨‍💻 All of my projects are available at [swarajgaidhane15](swarajgaidhane15)
-
-- 💬 Ask me about **React, Angular and Django**
-
 - 📫 How to reach me **swarajgaidhane1508@gmail.com**
-
-- 📄 Know about my experiences [https://cutt.ly/0vhG3Ku](https://cutt.ly/0vhG3Ku)
-
-- ⚡ Fun fact **There are over 700 different programming languages**
 
 <br>
 <h3 align="left">Connect with me:</h3>
