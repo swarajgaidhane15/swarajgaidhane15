@@ -59,9 +59,9 @@
 <p><a href="https://www.buymeacoffee.com/gswaraj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gswaraj" /></a></p><br>
 -->
 
-<p><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajgaidhane15&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="swarajgaidhane15" /></p><br>
+<p align="center"><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajgaidhane15&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="swarajgaidhane15" /></p><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarajgaidhane15&show_icons=true&theme=radical&locale=en" alt="swarajgaidhane15" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarajgaidhane15&theme=dark" alt="swarajgaidhane15" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarajgaidhane15&theme=dark" alt="swarajgaidhane15" /></p>
 
