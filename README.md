@@ -16,24 +16,21 @@
 <p align="left">
 <a href="https://twitter.com/gswaraj_1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gswaraj_1508" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swarajgaidhane15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/swaraj-gaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="swaraj-gaidhane" height="30" width="40" /></a>
 <a href="https://kaggle.com/swarajgaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="swarajgaidhane" height="30" width="40" /></a>
 <a href="https://instagram.com/gswaraj_1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gswaraj_1508" height="30" width="40" /></a>
-<a href="https://medium.com/@rutvikgaidhane1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rutvikgaidhane1508" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swarajgaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarajgaidhane" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swarajgaidhane11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="swarajgaidhane11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swarajgaidhane15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swarajgaidhane1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swarajgaidhane1508" height="30" width="40" /></a>
 </p>
 
 <br>
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>        </a> 
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -58,9 +55,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gswaraj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gswaraj" /></a></p><br>
+-->
 
 <p><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajgaidhane15&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="swarajgaidhane15" /></p><br>
 
