@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj Gaidhane</h1>
-<h3 align="center">A passionate junge who keeps a keen interest in web development and programming in Python.</h3>
+<h3 align="center">A passionate junge who keeps a keen interest in web development, ML and programming in Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" /> </p>
 
