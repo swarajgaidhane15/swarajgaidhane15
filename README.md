@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gswaraj_1508" target="blank"><img src="https://img.shields.io/twitter/follow/gswaraj_1508?logo=twitter&style=for-the-badge" alt="gswaraj_1508" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, React Native and Neural Networking**
+- 🌱 I’m into **React Native and Machine Learning**
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
