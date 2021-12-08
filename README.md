@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" /> </p>
 
-<p align="left"> <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow/gswaraj_1508?logo=twitter&style=for-the-badge" alt="gswaraj_1508" /></a> </p>
+<p align="left"> <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1" /></a> </p>
+
+<p align="left"> <a href="https://linkedin.com/swarajgaidhane15" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane15?logo=linkedin&style=for-the-badge" alt="swarajgaidhane15" /></a> </p>
+
+<p align="left"> <a href="https://instagram.com/swarajgaidhane" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane?logo=instagram&style=for-the-badge" alt="swarajgaidhane" /></a> </p>
 
 - 🌱 I’m into **React Native and Machine Learning**
 
