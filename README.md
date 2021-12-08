@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/swarajgaidhane15" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane15?logo=linkedin&style=for-the-badge" alt="swarajgaidhane15" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/swarajgaidhane15/" target="blank"><img src="https://img.shields.io/linkedin/follow/swarajgaidhane15?logo=linkedin&style=for-the-badge" alt="swarajgaidhane15" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/swarajgaidhane" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane?logo=instagram&style=for-the-badge" alt="swarajgaidhane" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/swarajgaidhane/" target="blank"><img src="https://img.shields.io/instagram/follow/swarajgaidhane?logo=instagram&style=for-the-badge" alt="swarajgaidhane" /></a> </p>
 
 - 🌱 I’m into **React Native and Machine Learning**
 
