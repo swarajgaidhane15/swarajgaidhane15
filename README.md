@@ -13,13 +13,11 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gswaraj_1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gswaraj_1508" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swarajgaidhane15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
-<a href="https://kaggle.com/swarajgaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="swarajgaidhane" height="30" width="40" /></a>
-<a href="https://instagram.com/gswaraj_1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gswaraj_1508" height="30" width="40" /></a>
+<p align="left" style="color: white">
+<a href="https://twitter.com/swarajgaidhane1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swarajgaidhane1" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/swarajgaidhane15](https://www.linkedin.com/in/swarajgaidhane15/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
+<a href="https://instagram.com/sw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="swarajgaidhane" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swarajgaidhane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarajgaidhane" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swarajgaidhane11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="swarajgaidhane11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swarajgaidhane1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swarajgaidhane1508" height="30" width="40" /></a>
 </p>
 
