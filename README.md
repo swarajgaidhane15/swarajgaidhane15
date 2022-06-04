@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swaraj Gaidhane</h1>
 <h3 align="center">A passionate junge who keeps a keen interest in web development, ML and programming in Python.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" /> </p>
-
-<p align="left"> <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1" /></a> </p>
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap">
+  <p align="left"> <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow   /swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1" /></a> </p>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" />  </p>
+</div>
 
 - 🌱 I’m into **React Native and Machine Learning**
 
@@ -15,13 +17,13 @@
 
 <br>
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/swarajgaidhane1" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swarajgaidhane1" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/swarajgaidhane15](https://www.linkedin.com/in/swarajgaidhane15/)" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
-<a href="https://instagram.com/sw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="swarajgaidhane" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swarajgaidhane" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarajgaidhane" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swarajgaidhane1508" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swarajgaidhane1508" height="30" width="40" /></a>
-</p>
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap">
+  <a style="color: white !important" href="https://twitter.com/swarajgaidhane1" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swarajgaidhane1" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/swarajgaidhane15](https://www.linkedin.com/in/swarajgaidhane15/)" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
+  <a href="https://instagram.com/sw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="swarajgaidhane" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/swarajgaidhane" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarajgaidhane" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/swarajgaidhane1508" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swarajgaidhane1508" height="30" width="40" /></a>
+</div>
 
 <br>
 <!-- 
