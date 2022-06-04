@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swaraj Gaidhane</h1>
 <h3 align="center">A passionate junge who keeps a keen interest in web development, ML and programming in Python.</h3>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; flex-direction: row">
-  <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow   /swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1"/></a>
+<div style="width: 100%; display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; flex-direction: row">
+  <a href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1"/></a>
   
   <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" />
 </div>
