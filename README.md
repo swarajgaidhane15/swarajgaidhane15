@@ -7,11 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" />
 </div>
 
-- 🌱 I’m into **React Native and Machine Learning**
-
 - 👯 I’m looking to collaborate on **full-stack projects using MERN**
 
-- Currently learning **blockchain** and **web3** 
+- Currently learning **AWS** and **Web3** 
 
 - 📫 How to reach me **swarajgaidhane1508@gmail.com**
 
