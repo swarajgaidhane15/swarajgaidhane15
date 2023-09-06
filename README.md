@@ -1,27 +1,35 @@
 <h1 align="center">Hi 👋, I'm Swaraj Gaidhane</h1>
-<h3 align="center">A passionate junge who keeps a keen interest in web development, ML and programming in Python.</h3>
+<p>Passionate Software Engineer specializing in web development with expertise and hands-on React, EmberJS, Express, Spring boot and Redux. Delving into cloud computing with AWS and deep learning (courtesy OpenAi and ChatGPT).<br/>
 
-<div style="width: 100%; display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; flex-direction: row">
-  <a style="margin-right: 20px" href="https://twitter.com/swarajgaidhane1" target="blank"><img src="https://img.shields.io/twitter/follow/swarajgaidhane1?logo=twitter&style=for-the-badge" alt="swarajgaidhane1"/></a>
-  
-  <img src="https://komarev.com/ghpvc/?username=swarajgaidhane15&label=Profile%20views&color=0e75b6&style=flat" alt="swarajgaidhane15" />
-</div>
+Feel free to explore more about me at [Swaraj Gaidhane](swarajgaidhane.netlify.app). Let's connect and explore opportunities to collaborate.</p>
 
-- 👯 I’m looking to collaborate on **full-stack projects using MERN**
+<h3> Connect with me: </h3>
+  <a href="https://twitter.com/swarajgaidhane1" target="_blank" title="https://twitter.com/swarajgaidhane1">
+  <img width="40px" height="40px" src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="X" />
+</a>
+<a href="https://www.linkedin.com/in/swarajgaidhane15/" target="_blank" title="https://www.linkedin.com/in/swarajgaidhane15/">
+  <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" />
+</a>
+<a href="https://www.instagram.com/swarajgaidhane15/" target="_blank" title="https://www.instagram.com/swarajgaidhane15/">
+  <img width="40px" height="40px" src="https://seeklogo.com/images/I/instagram-logo-2D3332C00B-seeklogo.com.png" alt="Instagram" />
+</a>
+<br/>
 
-- Currently learning **AWS** and **Web3** 
+- 👯 Welcome to collaborate on **full-stack projects using MERN**
+
+- Currently learning **AWS** and **DL** 
 
 - 📫 How to reach me **swarajgaidhane1508@gmail.com**
 
-<br>
-<h3 align="center">Connect with me:</h3>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap">
+
+<!-- <h3 align="center">Connect with me:</h3> -->
+<!-- <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap">
   <a style="color: white !important" href="https://twitter.com/swarajgaidhane1" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swarajgaidhane1" height="30" width="40" /></a>
   <a href="[https://linkedin.com/in/swarajgaidhane15](https://www.linkedin.com/in/swarajgaidhane15/)" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarajgaidhane15" height="30" width="40" /></a>
   <a href="https://instagram.com/sw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="swarajgaidhane" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/swarajgaidhane" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swarajgaidhane" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/swarajgaidhane1508" target="blank"><img style="color: white; background-color: white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="swarajgaidhane1508" height="30" width="40" /></a>
-</div>
+</div> -->
 
 <br>
 <!-- 
